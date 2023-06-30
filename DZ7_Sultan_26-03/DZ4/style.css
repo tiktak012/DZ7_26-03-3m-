@@ -1,0 +1,12 @@
+.block{
+    width: 150px;
+    height: 150px;
+    background: silver;
+    font-size: 30px;
+
+}
+.wrapper{
+    display:flex;
+    justify-content: space-between;
+
+}

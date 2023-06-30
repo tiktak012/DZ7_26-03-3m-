@@ -1,0 +1,22 @@
+[
+  {
+    "product": "milk",
+    "price": 32
+  },
+  {
+    "product": "bread",
+    "price": 43
+  },
+  {
+    "product": "strawberries",
+    "price": 87
+  },
+  {
+    "product": "candy",
+    "price": 11
+  },
+  {
+    "product": "bananas",
+    "price": 90
+  }
+]
